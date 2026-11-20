@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Subtitles</string>
+    <string name="status_waiting">Waiting for the phone…</string>
+    <string name="status_connected">Phone connected</string>
+    <string name="status_format">%1$s\n\nPairing code: %2$s\nAddress: %3$s:%4$d\nHDMI input: %5$s  (◀ ▶ to switch)</string>
+    <string name="demo_subtitle">Translated subtitles will appear here.</string>
+    <string name="no_hdmi">No HDMI input found</string>
+    <string name="video_unavailable">Video unavailable (code %1$d)</string>
+    <string name="connection_failed">Could not open the HDMI input</string>
+</resources>

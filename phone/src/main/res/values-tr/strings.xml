@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oyun Dublaj</string>
+    <string name="how_to">1) PlayStation Remote Play uygulamasını aç, konsola bağlan ve oyunu orijinal altyazı açıkken başlat.\n2) Buraya dön, alanları doldur ve Başlat tuşuna bas.\n3) Tekrar Remote Play uygulamasına geç.</string>
+    <string name="tv_ip">TV IP adresi</string>
+    <string name="tv_code">TV eşleştirme kodu</string>
+    <string name="server_url">Ses sunucusu (Yazgı) adresi</string>
+    <string name="voice">Ses adı</string>
+    <string name="source_lang">Oyun dili</string>
+    <string name="dub_mode">Türkçe dublaj (kapalıysa sadece altyazı)</string>
+    <string name="crop_top">Altyazı bölgesi üst (%)</string>
+    <string name="crop_bottom">Altyazı bölgesi alt (%)</string>
+    <string name="start">Başlat</string>
+    <string name="stop">Durdur</string>
+    <string name="notif_channel">Çeviri</string>
+    <string name="notif_starting">Başlıyor…</string>
+    <string name="notif_running">Çeviri çalışıyor</string>
+    <string name="notif_tv_connected">TV bağlı</string>
+    <string name="notif_tv_retry">TV ye bağlanılıyor…</string>
+    <string name="notif_tv_bad_code">TV eşleştirme kodu yanlış</string>
+    <string name="notif_error">Hata</string>
+</resources>

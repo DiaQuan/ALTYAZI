@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Dub</string>
+    <string name="how_to">1) Open PlayStation Remote Play and connect to your console, start the game with its original subtitles on.\n2) Come back here, fill in the fields and press Start.\n3) Switch back to Remote Play.</string>
+    <string name="tv_ip">TV IP address</string>
+    <string name="tv_code">TV pairing code</string>
+    <string name="server_url">Voice server (Yazgı) address</string>
+    <string name="voice">Voice name</string>
+    <string name="source_lang">Game language</string>
+    <string name="dub_mode">Turkish dubbing (off = subtitles only)</string>
+    <string name="crop_top">Subtitle area top (%)</string>
+    <string name="crop_bottom">Subtitle area bottom (%)</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="notif_channel">Translation</string>
+    <string name="notif_starting">Starting…</string>
+    <string name="notif_running">Translating</string>
+    <string name="notif_tv_connected">TV connected</string>
+    <string name="notif_tv_retry">Connecting to TV…</string>
+    <string name="notif_tv_bad_code">Wrong TV pairing code</string>
+    <string name="notif_error">Error</string>
+</resources>

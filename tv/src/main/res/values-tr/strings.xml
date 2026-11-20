@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oyun Altyazı</string>
+    <string name="status_waiting">Telefon bekleniyor…</string>
+    <string name="status_connected">Telefon bağlandı</string>
+    <string name="status_format">%1$s\n\nEşleştirme kodu: %2$s\nAdres: %3$s:%4$d\nHDMI girişi: %5$s  (değiştirmek için ◀ ▶)</string>
+    <string name="demo_subtitle">Çevrilen altyazılar burada görünecek.</string>
+    <string name="no_hdmi">HDMI girişi bulunamadı</string>
+    <string name="video_unavailable">Görüntü alınamıyor (kod %1$d)</string>
+    <string name="connection_failed">HDMI girişi açılamadı</string>
+</resources>
